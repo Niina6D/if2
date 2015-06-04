@@ -1,1 +1,10 @@
-<xml xmlns="http://www.w3.org/1999/xhtml"></xml>
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="controls_whileUntil" id="65" inline="false" x="162" y="152">
+    <field name="MODE">UNTIL</field>
+    <value name="NUMBER">
+      <block type="sensor_button" id="91">
+        <field name="OBJECT">ENTER</field>
+      </block>
+    </value>
+  </block>
+</xml>
